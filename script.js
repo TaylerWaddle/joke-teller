@@ -105,17 +105,17 @@ const VoiceRSS = {
   },
 };
 
-function test() {
-  VoiceRSS.speech({
-    key: "eb656796e87b4463b738af8ece2df4d3",
-    src: "Hello, world!",
-    hl: "en-us",
-    v: "Linda",
-    r: 0,
-    c: "mp3",
-    f: "44khz_16bit_stereo",
-    ssml: false,
-  });
-}
+// function test() {
+//   VoiceRSS.speech({
+//     key: "eb656796e87b4463b738af8ece2df4d3",
+//     src: "Hello, world!",
+//     hl: "en-us",
+//     v: "Linda",
+//     r: 0,
+//     c: "mp3",
+//     f: "44khz_16bit_stereo",
+//     ssml: false,
+//   });
+// }
 
-test();
+// test();
